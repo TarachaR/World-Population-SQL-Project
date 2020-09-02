@@ -1,41 +1,34 @@
 Project Goals:
 
-You’ll work with a dataset of world population by country data from recent years. 
+I was working with a dataset of world population by country data from recent years. 
 
-You’ll write queries to retrieve interesting data and answer a set of specific questions.
+Wrote queries to retrieve interesting data and answer a set of specific questions.
 
-Prerequisites
-1. In order to complete this project, you should have completed the Learn SQL Manipulation and Learn SQL Queries lessons.
-
-Project Requirements
-2. In this project, you’ll answer questions using a database of world population by country.
+Project Requirements:
+2. In this project, I answered questions using a database of world population by country.
 
 The schema of the database is:
 
-Column		Type		Notes
-country		STRING	
-population	NUMBER		(in millions)
-year		NUMBER	
+Column		          Type		    Notes
+country		          STRING	
+population	        NUMBER		(in millions)
+year		            NUMBER	
 
 Refer to this schema as you write queries to the database.
 
 When you finish this project, you should be able to answer each the questions that follow using a single SQL query.
 
-3. The first query has already been written to answer the following question:
+1.What years are covered by the dataset? (you can manually count the number of years returned).
 
-What years are covered by the dataset? (you can manually count the number of years returned).
+2. What is the largest population size for Gabon in this dataset?
 
-Continue adding queries below the first one as you proceed.
+3. What were the 10 lowest population countries in 2005?
 
-4. What is the largest population size for Gabon in this dataset?
+4. What are all the distinct countries with a population of over 100 million in the year 2010?
 
-5. What were the 10 lowest population countries in 2005?
+5. How many countries in this dataset have the word “Islands” in their name?
 
-6. What are all the distinct countries with a population of over 100 million in the year 2010?
-
-7. How many countries in this dataset have the word “Islands” in their name?
-
-8. What is the difference in population between 2000 and 2010 in Indonesia?
+6. What is the difference in population between 2000 and 2010 in Indonesia?
 
 
 
